@@ -14,7 +14,7 @@ int main(){
     }
 
 
-    cout << max(array, a);
+    cout << max(array,a);
 
   return 0;
 }
