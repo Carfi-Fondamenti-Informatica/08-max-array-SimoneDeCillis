@@ -1,1 +1,1 @@
-float max(const float array[],int d);
+float max(const float array[],int d);
